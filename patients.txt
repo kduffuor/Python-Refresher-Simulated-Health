@@ -1,0 +1,5 @@
+Name,Age,Condition
+John,60,diabetes
+Jane,49,asthma
+Ayo,65,hypertension
+Lila,33,none
