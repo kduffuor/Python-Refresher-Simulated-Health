@@ -18,8 +18,8 @@ The dataset includes:
 - `name`
 - `weight_pounds`
 - `height_inches`
-- `condition`
 - `age`
+- `condition`
 
 ## How to Run
 Open the notebook in Jupyter:
