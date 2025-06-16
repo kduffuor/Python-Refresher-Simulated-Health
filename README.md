@@ -6,3 +6,22 @@ This covers advanced Python concepts (lists, tuples, functions) and concludes wi
 - **Pandas practice**: Filtering, grouping, sorting
 - **Mini project**: Simulated patient dataset for BMI and health analysis
 - **Visualizations**: Using Seaborn and Matplotlib
+
+## Tools Used
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib & Seaborn
+
+## Dataset
+The dataset includes:
+- `name`
+- `weight_pounds`
+- `height_inches`
+- `condition`
+- `age`
+
+## How to Run
+Open the notebook in Jupyter:
+```bash
+jupyter notebook
